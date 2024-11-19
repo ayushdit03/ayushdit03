@@ -1,5 +1,5 @@
 # <span style="font-size: 48px;">🚀 Ayush Jain - Portfolio</span>  
-[![Rocket Launch Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
 Welcome to my GitHub! I'm **Ayush Jain**, a passionate **AI and Data Science enthusiast** 🧠📊 with expertise in **Machine Learning**, **Front-End Development**, and **Data Analytics**. My projects showcase my commitment to creating impactful solutions and leveraging technology to solve real-world problems 🌍✨.  
 
 ---
