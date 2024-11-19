@@ -44,16 +44,19 @@ Welcome to my GitHub! I'm **Ayush Jain**, a passionate **AI and Data Science ent
 
 ---
 
-## <span style="font-size: 32px;">💼 Experience</span>  
-
-👨‍💻 **Project Intern** @ ISRO | *Aug 2024 – Present*  
-🌟 Collaborating with senior scientists on **remote sensing projects** involving satellite imagery analysis and geospatial solutions development 🛰️.  
-
-📊 **Data Analyst Intern** @ Accenture | *May 2024 – Jul 2024*  
-🌟 Conducted **data modeling and visualization** for social media trend analysis, delivering insights through impactful presentations 📈.  
-
-📈 **Data Analyst Intern** @ Javak Microcircuit Pvt. Ltd. | *Jul 2023 – Sep 2023*  
-🌟 Focused on PCB manufacturing analytics, utilizing **Power BI** for cost and profit analysis 🖥️, enabling strategic decision-making.  
+<span style="font-size: 32px;">💼 Experience</span>
+👨‍🚀 Project Intern @ ISRO (Aug 2024 – Present)
+🌍 Exploring the Cosmos: Collaborating with top scientists on remote sensing projects to analyze satellite imagery for environmental monitoring.
+🛰️ Tech in Space: Developing innovative geospatial solutions using cutting-edge GIS and remote sensing tools.
+📈 Impact: Delivering actionable insights to enhance global environmental sustainability efforts.
+📊 Data Analyst Intern @ Accenture (May 2024 – Jul 2024)
+💡 Client-Driven Insights: Analyzed social media trends to help a hypothetical client make smarter content decisions.
+📂 Data Wizardry: Cleaned and modeled seven complex datasets to uncover impactful content patterns.
+🎥 Storytelling with Data: Presented findings through engaging PowerPoint slides and a video presentation that resonated with stakeholders.
+📈 Data Analyst Intern @ Javak Microcircuit Pvt. Ltd. (Jul 2023 – Sep 2023)
+🛠️ Manufacturing Analytics: Focused on analyzing costs, profits, and trends in PCB manufacturing.
+📊 Power BI Magic: Created intuitive dashboards and visualized data for strategic decision-making.
+🎯 Real-World Impact: Enabled leadership to make informed business decisions through clear, concise reporting.
 
 ---
 
