@@ -1,15 +1,15 @@
-# <span style="font-size: 40px;">🚀 Ayush Jain - Portfolio</span>  
+# <span style="font-size: 48px;">🚀 Ayush Jain - Portfolio</span>  
 
 Welcome to my GitHub! I'm **Ayush Jain**, a passionate **AI and Data Science enthusiast** 🧠📊 with expertise in **Machine Learning**, **Front-End Development**, and **Data Analytics**. My projects showcase my commitment to creating impactful solutions and leveraging technology to solve real-world problems 🌍✨.  
 
 ---
 
-## <span style="font-size: 32px;">📖 About Me</span>  
+## <span style="font-size: 34px;">📖 About Me</span>  
 
 📧 **Email**: [ayushpoonmia2003@gmail.com](mailto:ayushpoonmia2003@gmail.com)  
-🌐 **Portfolio**: [Ayush Jain Portfolio](#)  
-💼 **LinkedIn**: [![LinkedIn Logo](https://img.icons8.com/color/25/linkedin.png) LinkedIn](#)  
-👾 **GitHub**: [![GitHub Logo](https://img.icons8.com/material-outlined/25/github.png) GitHub](#)  
+🌐 **Portfolio**: [Ayush Jain Portfolio](https://ayushsportfolio-gilt.vercel.app/)  
+💼 **LinkedIn**: [![LinkedIn Logo](https://img.icons8.com/color/25/linkedin.png) LinkedIn](https://www.linkedin.com/in/ayush-jain-8b6985231)  
+👾 **GitHub**: [![GitHub Logo](https://img.icons8.com/material-outlined/25/github.png) GitHub](https://github.com/ayushdit03)  
 
 💡 With a strong foundation in **Artificial Intelligence** and **Data Science**, I specialize in building scalable applications and analyzing data to extract actionable insights. My passion for technology drives me to explore cutting-edge tools and techniques for solving complex problems.  
 
