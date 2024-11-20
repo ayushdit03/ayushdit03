@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm **Ayush Jain**, a passionate **AI and Data Science ent
 ---
 
 ## <span style="font-size: 34px;">📖 About Me</span>  
-
+![image alt](https://github.com/ayushdit03/Portfolio/blob/main/src/images/about.png?raw=true)
 📧 **Email**: [ayushpoonmia2003@gmail.com](mailto:ayushpoonmia2003@gmail.com)  
 🌐 **Portfolio**: https://ayushsportfolio-gilt.vercel.app/ <br />
 💼 **LinkedIn**: https://www.linkedin.com/in/ayush-jain-8b6985231<br /> 
